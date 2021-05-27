@@ -1,0 +1,4 @@
+*.txt
+secrets.js
+logs*
+packages/
