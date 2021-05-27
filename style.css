@@ -1,3 +1,10 @@
 .git{
     background: violet;
+    margin-bottom: 10px;
+}
+.center{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-color: skyblue;
 }
